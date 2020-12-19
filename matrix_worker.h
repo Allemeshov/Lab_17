@@ -7,3 +7,4 @@ void swapDiagonals(int matrix[][100], int size);
 void processMatrix(int matrix[][100], int size);
 void swapDiagonals(double matrix[][100], int size);
 void processMatrix(double matrix[][100], int size);
+void clearMatrix(int matrix[][100]);
